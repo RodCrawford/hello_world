@@ -1,2 +1,2 @@
 # hello_world
-The obligatory one the everyone does
+The obligatory one that everyone does
